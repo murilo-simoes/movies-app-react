@@ -46,7 +46,7 @@ function App() {
 
     </div>
     <footer>
-      <p>Made by Murilo Simões</p>
+      <span>Made by Murilo Simões</span>
     </footer>
     </>
   );
